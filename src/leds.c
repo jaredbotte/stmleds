@@ -2,6 +2,9 @@
 #include "stm32f0xx.h"
 #include "leds.h"
 
+// Copyright 2021 Jared Botte
+// License: https://creativecommons.org/licenses/by/4.0/
+
 //============================================================================
 // Wait for n nanoseconds. (Maximum: 4.294 seconds) Credit: Rick
 //============================================================================
